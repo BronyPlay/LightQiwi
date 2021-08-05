@@ -1,0 +1,4 @@
+LightQiwi:
+    Token: eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6InBnZXB1eS0wMCIsInVzZXJfaWQiOiIzODA1MDcwNjM0MjYiLCJzZWNyZXQiOiI3MmZiODVlYmY3Njk5MDg5MDc0OTg0ZDMxNGY4Y2QxMjk4MGJmODc5YjYyMjkzYjAyNzhhMDkwYjFlNDk1OWNkIn19
+    Multiplication: 3
+    Command: "p give %player% %amount%"

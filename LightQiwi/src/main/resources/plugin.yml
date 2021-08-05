@@ -1,0 +1,6 @@
+name: LightQiwi
+version: ${project.version}
+main: ru.riku.lightqiwi.LightQiwi
+authors: [ Riku ]
+commands:
+  lightqiwi:

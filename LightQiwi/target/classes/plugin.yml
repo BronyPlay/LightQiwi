@@ -1,0 +1,6 @@
+name: LightQiwi
+version: 1.0
+main: ru.riku.lightqiwi.LightQiwi
+authors: [ Riku ]
+commands:
+  lightqiwi:
